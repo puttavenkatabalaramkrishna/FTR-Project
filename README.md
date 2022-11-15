@@ -5,7 +5,7 @@ Demo: -
 https://user-images.githubusercontent.com/88174898/158057879-8076b5a2-5aec-420d-a80a-fa8ec01c38f4.mp4
 
 project Link : -
-https://storageaccountofgaurav.z13.web.core.windows.net/
+https://puttavenkatabalaramkrishna.github.io/FTR-project/
 
 Tech Used: - Azure QnA Maker, Azure Bot Service, VS code, Azure Static website
 
