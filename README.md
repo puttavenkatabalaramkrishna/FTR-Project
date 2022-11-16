@@ -2,7 +2,6 @@
 
 Demo: -
 https://youtu.be/xK31K4V3GYY
-
 project Link : -
  https://puttavenkatabalaramkrishna.github.io/FTR-Project/
 
