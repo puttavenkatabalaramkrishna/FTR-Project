@@ -5,6 +5,7 @@ https://youtu.be/xK31K4V3GYY
 
 project Link : -
  https://puttavenkatabalaramkrishna.github.io/FTR-Project/
+
 Tech Used: - Azure QnA Maker, Azure Bot Service, VS code, Azure Static website
 
 About Project : - 
